@@ -1,10 +1,4 @@
-💼 Infrastructure Security at AmBank Group
-
-🌱 Infrastructures, Cybersecurity, Cloud, DevSecOps  
-
-⚡ Enjoys breaking and fixing things — I see every challenge as a puzzle to solve. 
-
-📫 Reach me at: alifdaniel279@gmail.com
+meow
 
 
 <!---
